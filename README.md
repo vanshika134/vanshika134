@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Machine Learning | HTML|CSS|
+I'm currently learning DSA (JAVA) | HTML|CSS|PYTHON with AI & ML
 
 
 ## 🌐 Socials:
