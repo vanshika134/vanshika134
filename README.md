@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm currently learning DSA (JAVA) | HTML|CSS|PYTHON with AI & ML
+Hi! I'm a Computer Science student interested in software development and problem-solving.
+
+- Currently learning Data Structures & Algorithms using Java
+- Practicing Python and exploring AI & Machine Learning
+- Learning HTML, CSS, JavaScript and Web Development
+- Exploring SQL and building practical projects
+- Continuously improving my programming and problem-solving skills
+
+🎯 **Goal:** To become a skilled software developer through consistent learning and hands-on projects.
 
 
 ## 🌐 Socials:
