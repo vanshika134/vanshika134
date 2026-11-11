@@ -69,13 +69,28 @@ A Python-based project to track stock investments and calculate portfolio values
 
 [🔗 View Repository](https://github.com/vanshika134/CodeAlpha_StockPortfolio)
 
+### ⚙️ Python Task Automation Toolkit
+A collection of Python automation tasks, including file organization and other utility scripts.
+
+[🔗 View Repository](https://github.com/vanshika134/CodeAlpha_TaskAutomation)
+
 ### 🛒 Swiggy Clone
-A frontend development project inspired by the Swiggy website, built using HTML and CSS.
+A frontend project inspired by the Swiggy website, built using HTML and CSS.
 
 [🔗 View Repository](https://github.com/vanshika134/Swiggy)
 
+### 🥑 Blinkit Clone
+A grocery-shopping website frontend inspired by Blinkit, built using HTML and CSS.
+
+[🔗 View Repository](https://github.com/vanshika134/Blinkit)
+
+### 👗 Fashion E-commerce Website
+A fashion e-commerce frontend built using HTML, CSS and JavaScript. Currently a work in progress.
+
+[🔗 View Repository](https://github.com/vanshika134/fashion-ecommerce-website)
+
 ### 💬 Python ChatBox
-A Python-based chatbot project.
+A rule-based interactive chatbot built using Python.
 
 [🔗 View Repository](https://github.com/vanshika134/Python-ChatBox)
 
