@@ -96,6 +96,14 @@ A rule-based interactive chatbot built using Python.
 
 ---
 
+## 📚 Coding Profiles & Practice
+
+- 💡 Solving Data Structures & Algorithms problems on LeetCode
+- 🧠 Practicing Java programming and problem-solving
+- 🌱 Exploring new technologies through hands-on projects
+
+**LeetCode Goal:** 100 Problems Solved 🎯
+
 ## 📊 GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=vanshika134&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
